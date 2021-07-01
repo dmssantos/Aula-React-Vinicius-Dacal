@@ -13,7 +13,8 @@
 <br>
 
 <p align="center">
-  <img alt="promo_show" src="github/Promo-Show-1.png" width="50%"><img alt="promo_show" src="github/Promo-Show-2.png" width="50%">
+  <img alt="promo_show" src="github/Promo-show-1.png" width="50%">
+  <img alt="promo_show" src="github/Promo-Show-2.png" width="50%">
 </p>
 
 ## ✨ Tecnologias
