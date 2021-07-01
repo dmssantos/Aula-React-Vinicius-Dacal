@@ -35,11 +35,7 @@ Primeiro faça o clone do projeto
 ```sh
 git clone https://github.com/dmssantos/Aula-React-Vinicius-Dacal.git
 ```
-agora vá até a pasta api e instale as dependencias da api
-```sh
-npm i
-```
-depois vá na pasta web e instale as dependências do projeto web
+agora vá até a pasta api e instale as dependencias da api com o comando abaixo, depois faça o mesmo na pasta web
 ```sh
 npm i
 ```
